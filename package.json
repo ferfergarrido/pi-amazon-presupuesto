@@ -1,0 +1,9 @@
+{
+  "name": "pi-amazon-presupuesto",
+  "version": "1.0.0",
+  "description": "Skill para generar presupuestos en PDF buscando productos en Amazon.es",
+  "keywords": ["pi-package", "amazon", "presupuesto", "pdf", "spain"],
+  "pi": {
+    "skills": ["./skills"]
+  }
+}
